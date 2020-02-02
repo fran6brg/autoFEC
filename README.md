@@ -6,6 +6,7 @@ automating financial analysis tasks performed by analysts in audit &amp; consult
  - cloud storage : https://cloud.google.com/storage
  - cloud function : https://cloud.google.com/functions
  - cloud datastore : https://cloud.google.com/datastore
+ - Cloud Pub/Sub : https://cloud.google.com/pubsub
  
 **Data science stack (python)**
  - pandas
