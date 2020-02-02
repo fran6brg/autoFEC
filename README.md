@@ -1,5 +1,5 @@
 # autoFEC
-automating financial analysis tasks performed by analysts in big audit &amp; consulting firms
+automating financial analysis tasks performed by analysts in audit &amp; consulting firms
 
 **Devops and serverless stack**
  - compute engine : https://cloud.google.com/compute
