@@ -11,3 +11,6 @@ automating financial analysis tasks performed by analysts in audit &amp; consult
  - pandas
  - numpy
  - openpyxl
+ 
+**APIs**
+ - gmail
